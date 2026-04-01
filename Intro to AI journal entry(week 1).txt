@@ -1,0 +1,53 @@
+INTRO TO AI
+
+>AI's ability to complete complex tasks that werent coded into its design isnt fully understood how it came about and exactly why 
+it is able to do the thingsit can do
+
+>Emergent abilites are observed when models rech a certain size threshold certain capabilites are able to be done such as followin instructions,
+answering questions truthfully, and understanding language
+
+>Debate exists n wehter these capabilites are genuiely emergent or have always been present
+
+>What AI is inherently doing most of the time is geussing the next word based of the probalitity of the information it was tuned with
+even though at a certain size it is able to do things that it wasnt programmed to do it is still all fundamentally Ai guessing the next most liekly word
+(whatever that means)
+
+
+>There is an ongoing debate if it is ethical for these company to just shove as much data that the AI can take rather that being indie projects or compant projects
+
+
+>With the method of shoving massive loads of data into these AI programs the likely hood of some information being completely false is a major facor
+so the question becomes it is even pratical to feed AI these massive amounts of data the false with the true
+
+
+>Narrow AI is a program being made for a specific task like street light AI to detect if someone is going over or under the speed limit
+but with a more condesed and linear job for AI the results have less msitakes and tend to 
+
+
+>Algorthims are the back bone of AI, relying on mathmatical principles
+
+
+>AI is inherently biased as it learns from human data, which reflects human biases
+
+
+>Ethical concerns arise regarding the training of AI on publicly avaible  content versus copyrighted material
+
+
+>AI can be incorrect due to the nature of its training
+
+
+>It takes about 0.3 grams of carbon to send an email
+
+
+>Every sigle action take over the web takes power somewhere
+
+
+>These huge AI companpies arent actually forced to tell you about singular power usage and overall power usage
+
+
+>The human race as a whole is runnning out of data to train AI, so AI has be forced to intake data from other AI slop that term is called "Inbreeding"
+
+
+>
+
+

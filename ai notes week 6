@@ -1,0 +1,17 @@
+A virtual machine (VM) is like having another computer inside your laptop that runs its own operating system.
+
+
+AI developers use VMs to test models safely without messing up their main system.
+
+
+You need software like VirtualBox or VMware Workstation to create and run VMs.
+
+
+Running AI in a VM can require a lot of RAM, storage, and CPU power, so stronger laptops work better.
+
+
+VMs help isolate environments, which is useful when working with different AI libraries and versions.
+
+
+
+One downside is that VMs can be slower than running directly on your laptop, especially for heavy AI tasks.
