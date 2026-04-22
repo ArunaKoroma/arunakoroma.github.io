@@ -1,1 +1,19 @@
-learning notes
+>“Vibe coding” means describing the feel and idea of what you want, not just exact code, and letting AI fill in the details.
+
+
+>Be specific about the type of project (game, website, app) and what it should do.
+
+
+>Mention the tools or languages you want, like HTML/CSS, JavaScript, or a framework.
+
+
+>Break your prompt into parts like features, layout, and behavior so the AI understands better.
+
+
+>For games, describe things like rules, controls, and scoring system clearly.
+
+
+>For websites, explain the layout (header, navbar, sections, footer) and style (colors, theme, etc.).
+
+
+>After getting results, improve them by asking the AI to fix bugs, add features, or clean up code instead of starting over.
